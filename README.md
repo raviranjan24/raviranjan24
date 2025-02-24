@@ -1,13 +1,31 @@
-👋 Hi, I’m Ravi Ranjan
-👀 I’m passionate about: Frontend development, crafting engaging and responsive web interfaces.
-🌱 Current focus: Building robust web applications using React.js and Next.js.
-📫 Reach me at:
-Email: mrraviranjan24@gmail.com
-Phone: +91-7870561523
-LinkedIn: Ravi Ranjan
-💡 Let’s create amazing digital experiences together!
+# Hi there, I'm Ravi Ranjan 👋
 
-<!---
-raviranjan24/raviranjan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate software developer always looking to learn and grow. Here's a bit about me:
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on exciting projects in the field of web development.
+- 🌱 I’m currently learning advanced JavaScript, React, and Node.js.
+- 💬 Ask me about anything related to web development, programming, or technology in general.
+- 📫 How to reach me: [raviranjan24@example.com](mailto:raviranjan24@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time!
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks:** React, Node.js, Express, Django
+- **Tools:** Git, Docker, Kubernetes, VS Code
+- **Databases:** MongoDB, MySQL, PostgreSQL
+
+## 📈 GitHub Stats
+
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=raviranjan24&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/raviranjan24)
+- [Twitter](https://twitter.com/raviranjan24)
+- [Personal Website](https://raviranjan24.dev)
+
+Feel free to explore my repositories and contribute if you find something interesting. Let's build something amazing together!

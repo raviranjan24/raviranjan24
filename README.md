@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ravi Ranjan 👋
 
-<!--
-**raviranjan24/raviranjan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### React.js Developer | Frontend Developer
 
-Here are some ideas to get you started:
+I'm passionate about building responsive, interactive, and user-friendly web applications using React.js and modern JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ Developing applications with React.js
+- 💻 Practicing JavaScript (ES6+) and React Hooks
+- 🎨 Building responsive and reusable UI components
+- 🌐 Integrating REST APIs into frontend applications
+- 🚀 Continuously improving my frontend development skills
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** HTML5, CSS3, JavaScript
+- **Frontend:** React.js, React Router
+- **Styling:** CSS3, Flexbox, CSS Grid, Responsive Design
+- **API Integration:** Fetch API, Axios
+- **Tools:** Git, GitHub, npm, Vite, VS Code
+
+## 🚀 My Projects
+
+- **React E-commerce App** — Product listing, search, filters, and shopping cart.
+- **React Task Manager** — Task creation, editing, deletion, and filtering.
+- **React Admin Dashboard** — Reusable components, tables, and dashboard UI.
+
+## 📫 Connect With Me
+
+- GitHub: [@raviranjan24](https://github.com/raviranjan24)
+- LinkedIn: Add your LinkedIn profile URL
+- Portfolio: Add your portfolio website URL
+
+---
+
+*Building better interfaces, one component at a time.* ⚛️
